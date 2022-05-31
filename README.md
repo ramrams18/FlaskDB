@@ -1,6 +1,6 @@
 # FlaskDB
 
-This repo has been updated to work with `Python v3.8` and up.
+This repo has been updated to work with `Python v3.10`
 
 ### How To Run
 1. Install `virtualenv`:
